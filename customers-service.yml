@@ -2,3 +2,6 @@
   config:
     activate:
       on-profile: default
+      
+other:
+  service: https://moary04-net-conn-api-gateway.private.azuremicroservices.io
