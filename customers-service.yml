@@ -3,6 +3,8 @@
     activate:
       on-profile: default
       
-other:
-  service: https://moary04-net-conn-api-gateway.private.azuremicroservices.io
-  service2: https://moary04-net-conn2-api-gateway.private.azuremicroservices.io
+external:
+  service-foo: 
+    endpoint: https://moary04-net-conn-api-gateway.private.azuremicroservices.io
+  service-bar: 
+    endpoint: https://moary04-net-conn2-api-gateway.private.azuremicroservices.io
