@@ -5,6 +5,6 @@
       
 external:
   service-foo: 
-    endpoint: https://moary04-net-conn-api-gateway.private.azuremicroservices.io
+    endpoint: https://moary06-net-conn-east-us-api-gateway.private.azuremicroservices.io
   service-bar: 
-    endpoint: https://moary04-net-conn2-api-gateway.private.azuremicroservices.io
+    endpoint: https://moary06-net-conn-west-us-api-gateway.private.azuremicroservices.io
