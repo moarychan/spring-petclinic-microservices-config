@@ -105,9 +105,6 @@ spring:
     init:
       mode: always
       platform: mysql
-  cloud:
-    azure:
-      compatibility-verifier.enabled: false
       
 ---
 spring:
