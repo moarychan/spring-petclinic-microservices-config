@@ -88,7 +88,7 @@ spring:
       schema-locations: classpath*:db/mysql/schema.sql
       data-locations: classpath*:db/mysql/data.sql
       mode: always
-      platform: mysql
+
 ---
 spring:
   config:
@@ -102,8 +102,7 @@ spring:
       schema-locations: classpath*:db/mysql/schema.sql
       data-locations: classpath*:db/mysql/data.sql
       mode: always
-      platform: mysql
-      
+
 ---
 spring:
   config:
