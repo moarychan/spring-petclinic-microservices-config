@@ -44,6 +44,10 @@ logging.level.org.springframework: INFO
 # Metrics
 management:
   endpoint:
+    health:
+      show-details: always
+      probes:
+        enabled: true
     metrics:
       enabled: true
     prometheus:
