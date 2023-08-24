@@ -1,4 +1,5 @@
 # COMMON APPLICATION PROPERTIES
+debug: on
 
 server:
   # start services on random port by default
