@@ -1,5 +1,5 @@
 # COMMON APPLICATION PROPERTIES
-debug: on
+logging.level.org.springframework.jdbc.datasource.init: DEBUG
 
 server:
   # start services on random port by default
